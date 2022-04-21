@@ -1,0 +1,10 @@
+.main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 35px;
+}
+.para {
+    margin-top: 5px;
+}
